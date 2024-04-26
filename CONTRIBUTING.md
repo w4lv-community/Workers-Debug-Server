@@ -2,6 +2,8 @@
 
 Contributions to the Workers Debug Server are welcome from all!
 
+The Workers 5.0 Debug Server is developed using LabVIEW 2017.
+
 The Workers Debug Server is managed via [git](https://git-scm.com), with the canonical upstream
 repository hosted on [GitHub](https://github.com/w4lv-community/workers-debug-server/).
 
